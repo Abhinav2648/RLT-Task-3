@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit secrets and logs
+.streamlit/secrets.toml
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
